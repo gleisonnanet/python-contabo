@@ -22,9 +22,9 @@ pip install pfruck-contabo
 
 You can also install the package directly from the GitHub Repo using pip:
 ```sh
-pip install git+https://github.com/p-fruck/python-contabo.git
+pip install git+https://github.com/gleisonnanet/python-contabo.git
 ```
-(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/p-fruck/python-contabo.git`)
+(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/gleisonnanet/python-contabo.git`)
 
 Then import the package:
 ```python
